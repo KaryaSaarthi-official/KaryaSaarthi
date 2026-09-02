@@ -23,4 +23,5 @@ India's First Project Solutions Company Where Education Meets Execution.
 
 ## Company Details
 Karyanex Private Limited
+
 Trademark: KARYA SAARTHI (Class 41)
