@@ -1,27 +1,38 @@
-# Karya Saarthi -Your Trusted Work Companion
-India's First Project Solutions Company Where Education Meets Execution.
+### 🚀 What We Do
+- *Academic Writing:* Thesis Writing, Research Papers, Assignments, Plagiarism Removal (Turnitin verified)
+- *Digital Marketing:* Search Engine Optimization (SEO), Answer Engine Optimization (AEO), Social Media Management, Google Ads
+- *Web Development:* Custom Web Apps, WordPress, Shopify, Frontend & Backend Solutions
+- *Creative & Design:* Graphic Design, Professional Presentations (PPT), Video Editing
+- *Career Services:* ATS-friendly Resumes, Cover Letters, LinkedIn Profile Optimization
+- *⚡ Saarthi Express:* Urgent project completion and delivery within 2 to 5 hours!
 
-## What We Do
-- Academic Writing -Thesis, Research Paper, Assignment
-- Digital Marketing -SEO, Social Media, Google Ads
-- Web Development -WordPress, Shopify, Custom
-- Design Services -Graphic, Video, PPT
-- Career Services -Resume, LinkedIn, Cover Letter
-- Saarthi Express -Delivery in 2-5 Hours
+---
 
-  ## Connect With Us
-- Website: https://www.karyasaarthi.com
-- Email: support@karyasaarthi.com
-- Phone: +91 85950 25753 | +91 85951 25753
-- Instagram: @karyasaarthi
+### 📊 Company Numbers & Trust
+- *500+* Projects Successfully Delivered
+- *2000+* Happy Clients Across India
+- *98%* Client Satisfaction Rate
+- *50+* Domain Experts and Technical Professionals
 
-## Our Numbers
-- 500+ Projects Completed
-- 2000+ Happy Clients
-- 98% Satisfaction Rate
-- 50+ Expert Professionals
+---
 
-## Company Details
-Karyanex Private Limited
+### 🛠️ Currently Working On
+- Open source academic and marketing resources for Indian students and creators.
+- Expanding Answer Engine Optimization (AEO) presence across developer networks.
+- Saarthi Express automated priority pipeline.
 
-Trademark: KARYA SAARTHI (Class 41)
+---
+
+### 📞 Connect With Us
+- *Website:* [www.karyasaarthi.com](https://www.karyasaarthi.com)
+- *Support Email:* support@karyasaarthi.com
+- *Contact Numbers:* +91 85950 25753 | +91 85951 25753
+- *Official Email:* tech.karyasaarthi@gmail.com
+- *Instagram:* [@karyasaarthi](https://www.instagram.com/karyasaarthi)
+
+---
+
+### 🏢 Corporate Identification
+- *Operating Entity:* Karyanex Private Limited (Incorporated under Companies Act, 2013)
+- *Registered Trademark:* KARYA SAARTHI (Class 41, Reg. No. 14699205)
+- *Location:* Bihar, India (Operating Online Pan-India)
